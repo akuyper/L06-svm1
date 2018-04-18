@@ -1,3 +1,3 @@
-# SVM I Lab (L06)
+# SVM Lab I (L06)
 
 Under construction
