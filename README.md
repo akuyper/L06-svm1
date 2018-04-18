@@ -1,0 +1,2 @@
+# L06-svm1
+STAT 301-3: SVM I Lab (L06)
