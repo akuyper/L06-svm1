@@ -1,6 +1,9 @@
-# SVM I Lab (L06)
-
-Download the repository as a zip folder and begin an R project for this lab. The zip folder will contain instructions (repeated below) and a template to get an Rmd file started.
+---
+title: "SVM Lab I (L06)"
+author: "Data Science III (STAT 301-3)"
+date: "April 18th, 2018"
+output: html_document
+---
 
 # Overview
 
@@ -12,7 +15,15 @@ We will be utilizing the `Khan` datasets (*khan_xtrain.csv*, *khan_ytrain.csv*, 
 
 # Exercise
 
-Please complete the following exercise. The submitted documents should be neatly formatted. 
+Please complete the following exercise. The document should be neatly formatted. 
+
+#### Load Packages
+
+```{r, message=FALSE}
+# Loading package(s)
+
+```
+<br>
 
 #### Exercise 1
 Work through the entire lab in Section 9.6 *Lab: Support Vector Machines* (pages: 359 - 368) while attempting to utilize `tidyverse` techniques when possible. 
